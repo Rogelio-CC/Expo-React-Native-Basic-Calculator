@@ -1,1 +1,1 @@
-### Es una calculadora básica con operaciones como suma, resta, multplicación, división y poencia. Se realizó con Javascript y Expo.
+### It is a basic calculator with operations such as addition, subtraction, multiplication, division and power. It was made with Javascript and Expo.
