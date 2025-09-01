@@ -28,7 +28,7 @@ En la documentación de Expo, te indica que tienes que introducir el siguiente c
 
 1- Descarga este repositorio o clonalo:
   ```bash
-  [git clone https://github.com/tu-usuario/calculadora-expo.git](https://github.com/Rogelio-CC/Expo-React-Native-Basic-Calculator.git)
+  git clone https://github.com/Rogelio-CC/Expo-React-Native-Basic-Calculator.git
   ```
 
 2- Accede a la carpeta del proyecto.
