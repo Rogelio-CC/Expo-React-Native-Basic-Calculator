@@ -19,6 +19,7 @@ Antes de ejecutar el proyecto, asegúrate de tener instalado:
 - [Node.js](https://nodejs.org/).
 - [Expo CLI](https://docs.expo.dev/get-started/installation/).
 En la documentación de Expo, te indica que tienes que introducir el siguiente comando para instalar Expo:
+
   ```bash
   npm install -g expo-cli
   ```
