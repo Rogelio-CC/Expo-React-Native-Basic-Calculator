@@ -3,7 +3,6 @@
 Este proyecto es una aplicación móvil sencilla desarrollada con **React Native** y **Expo** que implementa una calculadora básica.  
 Permite realizar operaciones matemáticas elementales como suma, resta, multiplicación y división.
 
----
 
 ##  Características
 - Interfaz amigable.
@@ -11,7 +10,6 @@ Permite realizar operaciones matemáticas elementales como suma, resta, multipli
 - Compatible con Android.
 - Construida con Expo para un desarrollo rápido y multiplataforma.
 
----
 
 ##  Requisitos
 
@@ -39,7 +37,7 @@ En la documentación de Expo, te indica que tienes que introducir el siguiente c
   npm install
   ```
   ```bash
-    yarn install
+  yarn install
   ```
 
 4- Inicia el servidor con el siguiente comando:
