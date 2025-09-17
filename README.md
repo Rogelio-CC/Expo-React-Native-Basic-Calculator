@@ -1,11 +1,9 @@
 # Calculadora Básica con Expo
+Este proyecto es una aplicación móvil sencilla desarrollada con **React Native** y **Expo** que implementa una calculadora básica.  
+Permite realizar operaciones matemáticas elementales como suma, resta, multiplicación y división.
+
 <img src="https://github.com/user-attachments/assets/252515f9-ef57-4b4f-be70-766050c74f14" alt="Imagen" width="20%" height="500"/>
 <img src="https://github.com/user-attachments/assets/423a847e-5ce0-4726-9e6e-ad50eea019dd" alt="Imagen" width="20%" height="500"/>
-<br>
-
-Este proyecto es una aplicación móvil sencilla desarrollada con **React Native** y **Expo** que implementa una calculadora básica.  
-
-Permite realizar operaciones matemáticas elementales como suma, resta, multiplicación y división.
 
 
 ##  Características
