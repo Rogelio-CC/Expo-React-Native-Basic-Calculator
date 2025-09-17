@@ -1,6 +1,6 @@
 # Calculadora Básica con Expo
 
-<div style="margin:20;">
+<div style="margin:20px;">
   <img src="https://github.com/user-attachments/assets/423a847e-5ce0-4726-9e6e-ad50eea019dd" alt="Imagen" width="20%" height="500" />
   <img src="https://github.com/user-attachments/assets/252515f9-ef57-4b4f-be70-766050c74f14" alt="Imagen" width="20%" height="500" />
 </div>
