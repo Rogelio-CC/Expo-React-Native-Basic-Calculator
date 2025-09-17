@@ -42,7 +42,6 @@ const App = () => {
 
   return (
     <View style={styles.container}>
-      <Text style={styles.title}>Basic Calculator</Text>
       <TextInput 
         style={styles.display}
         keyboardType='numeric'
@@ -89,26 +88,22 @@ const App = () => {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: '#0afcdb',
+    backgroundColor: '#007dcd',
     alignItems: 'center',
     justifyContent: 'center',
-    padding: 16,
+    padding: 10,
   },
-  title: {
-    fontSize: 24,
-    marginBottom: 20,
-  },
+
   display: {
-    fontSize: 30,
+    fontSize: 40,
     marginVertical: 20,
     height: 100,
-    borderColor: 'black', 
-    borderWidth: 2, 
-    paddingHorizontal: 10,
+    borderColor: 'white', 
     textAlign: 'right',
-    width: '90%',
+    width: '95%',
     borderRadius: 20,
     backgroundColor: 'white',
+    color: '#0063a6',
   },
 
   buttonContainer: {
@@ -117,22 +112,26 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
     width: '100%',
   },
+
   button: {
     width: '20%',
     height: 60,
-    margin: '1%',
+    margin: '1.7%',
     justifyContent: 'center',
     alignItems: 'center',
     backgroundColor: 'white',
     borderRadius: 20,
   },
+
   buttonText: {
     fontSize: 24,
+    color: '#0063a6',
   },
+
   pointButton: {
-    width: '42%',
+    width: '44%',
     height: 50,
-    margin: '1%',
+    margin: '1.7%',
     justifyContent: 'center',
     alignItems: 'center',
     backgroundColor: 'white',
