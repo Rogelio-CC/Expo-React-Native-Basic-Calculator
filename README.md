@@ -1,6 +1,6 @@
 # Calculadora Básica con Expo
 
-![Image_Calculator1](https://github.com/user-attachments/assets/252515f9-ef57-4b4f-be70-766050c74f14)
+<img src="https://github.com/user-attachments/assets/252515f9-ef57-4b4f-be70-766050c74f14" alt="Imagen" width="50%" />
 
 
 Este proyecto es una aplicación móvil sencilla desarrollada con **React Native** y **Expo** que implementa una calculadora básica.  
